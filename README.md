@@ -1,0 +1,2 @@
+# joydaily
+daily thoughts
